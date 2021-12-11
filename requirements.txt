@@ -2,6 +2,9 @@ APScheduler==3.6.3
 backports.zoneinfo==0.2.1
 cachetools==4.2.2
 certifi==2021.10.8
+docopt==0.6.2
+inflect==5.3.0
+num2words==0.5.10
 python-telegram-bot==13.8.1
 pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
